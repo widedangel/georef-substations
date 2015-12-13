@@ -2,7 +2,7 @@
 
 # OSM Power Data with Substations
 
-The OSM substation datasets in this folder where derived from
+The OSM substation datasets in this folder were derived from
 [Enipedia's power extract for
 Europe](http://enipedia.tudelft.nl/OpenStreetMap/).
 

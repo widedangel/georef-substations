@@ -30,7 +30,9 @@ The current best state can be seen at
 [matched-data/europe.pdf](matched-data/europe.pdf).
 
 There are snippets of code in [match_data.py](match_data.py) to help
-do this matching, but much must be done by hand.
+do this matching, but much must be done by hand. The code snippets are
+intended to be copied into the [iPython
+notebook](http://ipython.org/).
 
 The code is meant to help;
 [matched-data/ucte-nodes.csv](matched-data/ucte-nodes.csv) must still
